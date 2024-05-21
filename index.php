@@ -33,7 +33,7 @@
 <h2><?php echo calc(); ?></h3>
 
 <form id="form" onsubmit="event.preventDefault();">
-  <label for="fname">Height (cm):</label>
+  <label for="fname">Height (m):</label>
   <input type="text" id="height" name="height"><br><br>
   <label for="lname">Weight (kg):</label>
   <input type="text" id="weight" name="weight"><br><br>
